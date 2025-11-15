@@ -1,0 +1,712 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\abcretailers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:abcretailers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49957A91-0998-138F-5D8D-27C9410BBA6B}|..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers.functions\\abcretailers.functions\\functions\\pingfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49957A91-0998-138F-5D8D-27C9410BBA6B}|..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers.functions\\abcretailers.functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49957A91-0998-138F-5D8D-27C9410BBA6B}|..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers.functions\\abcretailers.functions\\functions\\queueprocessorfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49957A91-0998-138F-5D8D-27C9410BBA6B}|..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers.functions\\abcretailers.functions\\entities\\tableentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\services\\functionsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:services\\functionsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\order\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\order\\updatestatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\services\\ifunctionsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:services\\ifunctionsapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49957A91-0998-138F-5D8D-27C9410BBA6B}|..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers.functions\\abcretailers.functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\upload\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\upload\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\upload\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\upload\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\upload\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\upload\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:models\\fileuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\customer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\models\\viewmodels\\ordercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:models\\viewmodels\\ordercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\models\\viewmodels\\homeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:models\\viewmodels\\homeviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|c:\\users\\lab_services_student\\onedrive - advtech ltd\\abcretailers-main\\abcretailers-main\\abcretailers\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2CF2FF-AE0F-46D0-8E1B-B2CA488DD762}|ABCRetailers.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ABCRetailers.csproj",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\ABCRetailers.csproj",
+              "RelativeDocumentMoniker": "ABCRetailers.csproj",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\ABCRetailers.csproj",
+              "RelativeToolTip": "ABCRetailers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-21T15:48:53.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\local.settings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\local.settings.json",
+              "RelativeToolTip": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T13:34:35.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:24:29.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Services\\AzureStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\AzureStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Services\\AzureStorageService.cs",
+              "RelativeToolTip": "Services\\AzureStorageService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:05:45.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T16:58:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAowMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-28T20:19:03.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAADnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T08:27:34.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T20:18:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PingFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\PingFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\PingFunctions.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\PingFunctions.cs",
+              "RelativeToolTip": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\PingFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:43:42.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TableEntities.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\Entities\\TableEntities.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\Entities\\TableEntities.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\Entities\\TableEntities.cs",
+              "RelativeToolTip": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\Entities\\TableEntities.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAxwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:01:54.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueProcessorFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "RelativeToolTip": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:02:19.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAwLEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:07:29.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAswH0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:07:52.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FunctionsApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Services\\FunctionsApiClient.cs",
+              "RelativeDocumentMoniker": "Services\\FunctionsApiClient.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Services\\FunctionsApiClient.cs",
+              "RelativeToolTip": "Services\\FunctionsApiClient.cs",
+              "ViewState": "AgIAACECAAAAAAAAAAAAwD8CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:41:10.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv10AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:11:53.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\UpdateStatus.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\UpdateStatus.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\UpdateStatus.cshtml",
+              "RelativeToolTip": "Views\\Order\\UpdateStatus.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-05T23:45:29.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv2cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:06:54.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T09:28:55.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IFunctionsApi.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Services\\IFunctionsApi.cs",
+              "RelativeDocumentMoniker": "Services\\IFunctionsApi.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Services\\IFunctionsApi.cs",
+              "RelativeToolTip": "Services\\IFunctionsApi.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:40:24.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers.Functions\\ABCRetailers.Functions\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\ABCRetailers.Functions\\ABCRetailers.Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:39:26.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Customer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Customer\\Details.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T16:59:22.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Upload\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Upload\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Upload\\Index.cshtml",
+              "RelativeToolTip": "Views\\Upload\\Index.cshtml",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T19:43:53.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Upload\\Success.cshtml",
+              "RelativeDocumentMoniker": "Views\\Upload\\Success.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Upload\\Success.cshtml",
+              "RelativeToolTip": "Views\\Upload\\Success.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T19:44:53.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:25:12.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T20:18:27.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:25:59.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T13:53:01.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Files.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Upload\\Files.cshtml",
+              "RelativeDocumentMoniker": "Views\\Upload\\Files.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Upload\\Files.cshtml",
+              "RelativeToolTip": "Views\\Upload\\Files.cshtml",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAUwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T19:45:24.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T19:49:03.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Upload\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Upload\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Upload\\Details.cshtml",
+              "RelativeToolTip": "Views\\Upload\\Details.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T19:46:14.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IAzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Services\\IAzureStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\IAzureStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Services\\IAzureStorageService.cs",
+              "RelativeToolTip": "Services\\IAzureStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:06:00.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:15:46.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileUploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\FileUploadModel.cs",
+              "RelativeDocumentMoniker": "Models\\FileUploadModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\FileUploadModel.cs",
+              "RelativeToolTip": "Models\\FileUploadModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:27:14.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "Controllers\\UploadController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAUwO4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:08:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:13:38.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:23:36.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T16:12:49.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:22:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:15:26.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:22:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:00:15.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\ViewModels\\HomeViewModels.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\HomeViewModels.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\ViewModels\\HomeViewModels.cs",
+              "RelativeToolTip": "Models\\ViewModels\\HomeViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:02:07.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\ViewModels\\OrderCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\OrderCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\ABCRetailers-main\\ABCRetailers-main\\ABCRetailers\\Models\\ViewModels\\OrderCreateViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\OrderCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T16:03:14.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

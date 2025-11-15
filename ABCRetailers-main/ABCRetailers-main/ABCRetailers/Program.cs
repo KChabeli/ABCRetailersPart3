@@ -1,0 +1,38 @@
+namespace ABCRetailers
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddControllersWithViews();
+
+            // Register our storage service as a singleton
+            builder.Services.AddSingleton<ABCRetailers.Services.IAzureStorageService, ABCRetailers.Services.AzureStorageService>();
+
+            // Register Functions API services
+            builder.Services.AddHttpClient<ABCRetailers.Services.IFunctionsApi, ABCRetailers.Services.FunctionsApiClient>();
+            builder.Services.AddScoped<ABCRetailers.Services.IFunctionsApi, ABCRetailers.Services.FunctionsApiClient>();
+
+            var app = builder.Build();
+
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseExceptionHandler("/Home/Error");
+                app.UseHsts();
+            }
+
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+            app.UseRouting();
+            app.UseAuthorization();
+
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Home}/{action=Index}/{id?}");
+
+            app.Run();
+        }
+    }
+}
